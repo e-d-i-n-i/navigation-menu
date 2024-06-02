@@ -58,7 +58,7 @@ const Menu = () => {
     <div className="menu-container" ref={container}>
       <div className="menu-bar">
         <div className="menu-logo">
-          <Link href="/">Codegrid</Link>
+          <Link href="/">Edini Amare</Link>
         </div>
         <div className="menu-open" onClick={toggleMenu}>
           <p>Menu</p>
@@ -67,7 +67,7 @@ const Menu = () => {
       <div className="menu-overlay">
         <div className="menu-overlay-bar">
           <div className="menu-logo">
-            <Link href="/">Codegrid</Link>
+            <Link href="/">Edini Amare</Link>
           </div>
           <div className="menu-close" onClick={toggleMenu}>
             <p>Close</p>
